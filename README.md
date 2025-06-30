@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Ravi Sahu.
+I am Ravi Sahu, a passionate and competent programmer with keen interest in Computer Science. I am always eagerly learning and exploring opportunities.
 
 
 <picture>
